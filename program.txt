@@ -3,6 +3,7 @@
 using namespace std;
 
 void printMyName () {
+	cout<<"Kristijan Kosmac"<<endl();
 	//TODO
 }
 
